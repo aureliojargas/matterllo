@@ -1,4 +1,4 @@
-Django==1.10.3
+Django==1.11.29
 django-crispy-forms==1.6.1
 django-formtools==1.0
 matterhook==0.1
