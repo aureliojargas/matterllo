@@ -7,6 +7,6 @@ py-trello==0.7.0
 python-dateutil==2.6.0
 pytz==2016.7
 requests-oauthlib==0.7.0
-requests==2.12.1
+requests==2.20.0
 six==1.10.0
 whitenoise==3.2.2
